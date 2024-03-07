@@ -1,7 +1,13 @@
 # growthTogether : 함께자라기
-참고서를 지렛대로 활용하여 함께 자라자
+<br>
+
+## 교육자와 초보자의 공생 지렛대
+
+• [우아한형제들 최연소 기술이사 출신 김영한의 스프링 완전 정복](https://www.inflearn.com/roadmaps/373) <br>
+• [김영한의 스프링 부트와 JPA 실무 완전 정복 로드맵](https://www.inflearn.com/roadmaps/149) <br>
 
 <br>
+
 
 ---
 
